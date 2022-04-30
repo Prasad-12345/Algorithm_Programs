@@ -84,5 +84,4 @@ public class MergeSort {
 			System.out.print(i + " ");
 		}
 	}
-
 }
